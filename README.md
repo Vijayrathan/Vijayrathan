@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey, I’m Vijayrathan Karthikeyan</h1>
+<h1 align="center"> Hey, I’m Vijayrathan Karthikeyan</h1>
 <h3 align="center">AI Researcher | ML Engineer | M.S. in Artificial Intelligence @ WPI</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 I’m a **Machine Learning & AI Engineer** blending deterministic physics with large language models.  
 Currently researching **Retrieval-Augmented Generation (RAG)** for **Ground Penetrating Radar (GPR)** simulations — a hybrid of **physics-informed modeling** and **AI-driven data synthesis**.
 
@@ -22,9 +22,9 @@ Currently researching **Retrieval-Augmented Generation (RAG)** for **Ground Pene
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🛰️ RAGPR: Retrieval-Augmented GPR Simulation System
+#### GPRSim: Retrieval-Augmented GPR Simulation System
 AI-powered simulation generation framework using RAG + Reinforcement Learning  
 - Achieved **+18% nDCG@3** retrieval gain  
 - Reduced manual validation time by **~85%**  
@@ -35,19 +35,19 @@ Fine-tuned **Gemma-3-1B** on SQuAD using LoRA & QLoRA
 - **F1 78.64**, **EM 75.16**  
 - 40% GPU memory optimization with gradient checkpointing + mixed precision  
 
-#### 🤖 AskWPI: University LLM Assistant
+#### AskWPI: University LLM Assistant
 Benchmarked RAG, ReAct, and fine-tuned LLMs across 546 campus docs  
 - **87% semantic accuracy**  
 - First academic RAG benchmark for student workflows  
 
-#### 🌿 EcoWise.ai — *MLH SharkHack’25 Winner*
+#### EcoWise.ai — *MLH SharkHack’25 Winner*
 Personal sustainability coach powered by Gemini-2.0-Flash  
 - 85% activity recognition accuracy  
 - 1st Place out of 30+ teams  
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 | Domain | Tools & Frameworks |
 |--------|--------------------|
@@ -59,7 +59,7 @@ Personal sustainability coach powered by Gemini-2.0-Flash
 
 ---
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vijayrathan&show_icons=true&theme=radical&count_private=true" />
@@ -73,11 +73,10 @@ Personal sustainability coach powered by Gemini-2.0-Flash
 
 ---
 
-### 🧩 What I’m Exploring Next
+### What I’m Exploring Next
 - Physics-informed neural networks (PINNs)  
 - Multi-agent RAG systems  
 - LoRA fine-tuning for scientific simulation datasets  
-- Open-source collaboration in **LangGraph** & **agentic AI** research  
 
 ---
 
@@ -88,5 +87,5 @@ Personal sustainability coach powered by Gemini-2.0-Flash
 ---
 
 <p align="center">
-  <i>“Bridging physics and AI — one simulation at a time.”</i>
+  <i>“Bridging physics and AI - one simulation at a time.”</i>
 </p>
