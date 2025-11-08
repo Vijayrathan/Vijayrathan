@@ -5,9 +5,8 @@
 <p align="center">
   <a href="https://vijayrathan.com">🌐 Website</a> •
   <a href="https://linkedin.com/in/vijayrathan-karthikeyan">     
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" style="vertical-align:middle; margin-right:4px;" /> LinkedIn
-  </a> •
-  <a href="https://github.com/Vijayrathan">💻 GitHub</a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" style="vertical-align:middle; margin-right:4px;" />  LinkedIn
+  </a> 
 </p>
 
 ---
