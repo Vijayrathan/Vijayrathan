@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://vijayrathan.com">🌐 Website</a> •
-  <a href="https://linkedin.com/in/vijayrathan-karthikeyan">💼 LinkedIn</a> •
+  <a href="https://linkedin.com/in/vijayrathan-karthikeyan"> <i class="bi bi-linkedin"></i> LinkedIn</a> •
   <a href="https://github.com/Vijayrathan">💻 GitHub</a>
 </p>
 
@@ -30,7 +30,7 @@ AI-powered simulation generation framework using RAG + Reinforcement Learning
 - Reduced manual validation time by **~85%**  
 - Integrated schema guardrails via **Pydantic**  
 
-#### 🧩 Fine-Tuning Gemma-3 for Q&A
+#### Fine-Tuning Gemma-3 for Q&A
 Fine-tuned **Gemma-3-1B** on SQuAD using LoRA & QLoRA  
 - **F1 78.64**, **EM 75.16**  
 - 40% GPU memory optimization with gradient checkpointing + mixed precision  
@@ -80,9 +80,9 @@ Personal sustainability coach powered by Gemini-2.0-Flash
 
 ---
 
-### 🌐 Connect
-📫 Reach me at **[vijayrathank@gmail.com](mailto:vijayrathank@gmail.com)**  
-🌍 Visit [vijayrathan.com](https://vijayrathan.com) for my latest projects and publications
+###  Connect
+Reach me at **[vijayrathank@gmail.com](mailto:vijayrathank@gmail.com)**  
+Visit [vijayrathan.com](https://vijayrathan.com) for my latest projects and publications
 
 ---
 
