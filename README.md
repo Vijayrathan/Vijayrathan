@@ -1,5 +1,7 @@
 <!-- Profile Header -->
+
 <h1 align="center"> Hey, I’m Vijayrathan Karthikeyan</h1>
+
 <h3 align="center">AI Researcher | ML Engineer | M.S. in Artificial Intelligence @ WPI</h3>
 
 <p align="center">
@@ -12,12 +14,12 @@
 ---
 
 ### About Me
+
 <img align="right" alt="Coding" width="200" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemltNDEwdWZrNHdveW9sNjdsbDExano0cW93cGYwdjJiZ3h0Z2g3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
 
 
 
-
-I’m a **Machine Learning & AI Engineer** blending deterministic physics with large language models.  
+I’m a **AI/ML Engineer** blending deterministic physics with large language models.  
 
 Currently researching **Retrieval-Augmented Generation (RAG)** for **Ground Penetrating Radar (GPR)** simulations — a hybrid of **physics-informed modeling** and **AI-driven data synthesis**.
 
@@ -88,11 +90,7 @@ Currently researching **Retrieval-Augmented Generation (RAG)** for **Ground Pene
 ### GitHub Analytics
 
 <p align="center">
-  <img width="50%" height="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vijayrathan&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="50%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayrathan&layout=compact&theme=radical" />
+  <img width="50%" height="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vijayrathan&theme=radical" />
 </p>
 
 ---
@@ -106,7 +104,7 @@ Currently researching **Retrieval-Augmented Generation (RAG)** for **Ground Pene
 | **EcoWise AI** | Node.js, Angular, Gemini | 1st Place in MLH SharkHack'25 | [View Project](https://github.com/Vijayrathan/EcoWise.ai) |
 | **AskWPI** | RAG, LLM Finetuning, Agentic AI | SOTA Q&A in University Context | [View Project](https://github.com/Vijayrathan/ask_wpi) |
 | **Jet Engine Remaining Useful Life** | Python, PyTorch, Tensorflow | Kaggle Project | [View Project](https://github.com/Vijayrathan/cmapss_application) |
-| **Gemma Finetuning on SQuaD ** | Python, Gemma3.1, HuggingFace, PyTorch | Model Finetuning | [View Project](https://github.com/aaron-seq/Portofolio-and-Stock-Price-Predictor) |
+| **Gemma Finetuning on SQuaD** | Python, Gemma3.1, HuggingFace, PyTorch | Model Finetuning | [View Project](https://github.com/aaron-seq/Portofolio-and-Stock-Price-Predictor) |
 | **Accident Severity Prediction** | Pandas, Scikit-Learn, PyTorch | Data Analysis & Prediction | [View Project](https://github.com/Vijayrathan/accident_prediction) |
 
 </div>
