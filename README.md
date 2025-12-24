@@ -21,7 +21,7 @@
 
 I’m a **AI/ML Engineer** blending deterministic physics with large language models.  
 
-Currently researching **Retrieval-Augmented Generation (RAG)** for **Ground Penetrating Radar (GPR)** simulations — a hybrid of **physics-informed modeling** and **AI-driven data synthesis**.
+Currently researching **AI Agents** for **Ground Penetrating Radar (GPR)** simulations — a hybrid of **physics-informed modeling** and **AI-driven data synthesis**.
 
  **Current research:**  
 - Building **GPRSim**, a retrieval-augmented and self-correcting simulation engine  
