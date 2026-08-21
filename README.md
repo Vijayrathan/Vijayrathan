@@ -19,7 +19,7 @@
 
 
 
-I’m a **AI/ML Engineer** blending deterministic physics with large language models.  
+I’m a **AI/ML Engineer** blending physics with large language models.  
 
 Currently researching **AI Agents** for **Ground Penetrating Radar (GPR)** simulations — a hybrid of **physics-informed modeling** and **AI-driven data synthesis**.
 
