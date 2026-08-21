@@ -24,8 +24,8 @@ I’m a **AI/ML Engineer** blending physics with large language models.
 Currently researching **AI Agents** for **Ground Penetrating Radar (GPR)** simulations — a hybrid of **physics-informed modeling** and **AI-driven data synthesis**.
 
  **Current research:**  
-- Building **GPRSim**, a retrieval-augmented and self-correcting simulation engine  
-- Developing **multi-agent workflows** using LangGraph + LangChain  
+ Building **NL2GPR**, an agentic data generation engine for surrogate modelling.
+
   
 
 ---
