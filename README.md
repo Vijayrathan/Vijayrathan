@@ -100,7 +100,8 @@ I’m a **AI/ML Engineer** blending physics with large language models.
 
 | Project | Tech Stack | Achievement | Demo |
 |---------|------------|-------------|------|
-| **EcoWise AI** | Node.js, Angular, Gemini | 1st Place in MLH SharkHack'25 | [View Project](https://github.com/Vijayrathan/EcoWise.ai) |
+| **Discourse-Act-Aware Persuasion Modeling** | Transformers, RNN, PyTorch  | Presented the research methodology in an academic research talk | [View Project](https://github.com/Vijayrathan/ask_wpi) |
+| **EcoWise AI** | Node.js, Angular, Gemma, VertexAI, GKE, GCP | 1st Place in MLH SharkHack'25 | [View Project](https://github.com/Vijayrathan/EcoWise.ai) |
 | **AskWPI** | RAG, LLM Finetuning, Agentic AI | SOTA Q&A in University Context | [View Project](https://github.com/Vijayrathan/ask_wpi) |
 | **Jet Engine Remaining Useful Life** | Python, PyTorch, Tensorflow | Kaggle Project | [View Project](https://github.com/Vijayrathan/cmapss_application) |
 | **Gemma Finetuning on SQuaD** | Python, Gemma3.1, HuggingFace, PyTorch | Model Finetuning | [View Project](https://github.com/aaron-seq/Portofolio-and-Stock-Price-Predictor) |
@@ -108,7 +109,7 @@ I’m a **AI/ML Engineer** blending physics with large language models.
 
 </div>
 
-### What I’m Exploring Next
+### Exploring
 - Physics-informed neural networks (PINNs)  
 - Multi-agent RAG systems  
 - LoRA fine-tuning for scientific simulation datasets  
